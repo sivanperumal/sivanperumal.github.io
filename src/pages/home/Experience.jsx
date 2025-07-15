@@ -35,7 +35,7 @@ const EXPERIENCES = [
     skills:
       "React Js · Redux Tool kit · TypeScript · Wordpress · Agile Methodologies · Jira · HTML · Cascading Style Sheets (CSS) · JavaScript ",
     responsibility:
-      "I lead the Front-End Team and Build Web and Mobile applications with Clean and Bug free code. During the development, we followed Agile methodology and Jira Dashboard for the activity tracking. Maintain multiple environments like Dev, UAT and Production with specific configurations. And closely worked with Design and Testing team to understand the application flow and find the root cause of the issues.",
+      "I work with the Front-End Team and Build Web and Mobile applications with Clean and Bug free code. During the development, we followed Agile methodology and Jira Dashboard for the activity tracking. And closely worked with Design and Testing team to understand the application flow and find the root cause of the issues.",
     from: "June 2024",
     to: "Mar 2025",
   },
@@ -45,11 +45,11 @@ const EXPERIENCES = [
     location: "Chennai, Tamil Nadu, India",
     designation: "Senior Software Developer",
     skills:
-      "React Js · Micro Front-end · HTML · Cascading Style Sheets (CSS) · JavaScript · TypeScript · Adobe XD · SVN · AWS Services - Lambda, CloudFront, S3 Bucket",
+      "React Js · HTML · Cascading Style Sheets (CSS) · JavaScript · TypeScript · Adobe XD to UI . WordPress . PHP",
     responsibility:
-      "Build enterprise application for Contact Center and CX Solution. Planned the structure and designed the web application prototypes; Developed components and features that can enhance the user experience; Integrated the dynamic data by APIs. Followed Waterfall Method for the project tracking. Deployed the application with AWS Services.",
-    from: "Dec 2019",
-    to: "Dec 2021",
+      "Build enterprise application for Digital marketing team to Converge 2 Digital. Planned the structure and designed the web application prototypes; Developed components and features that can enhance the user experience; Integrated the dynamic data by APIs. Followed Waterfall Method for the project tracking.",
+    from: "Mar 2023",
+    to: "Mar 2024",
   },
   {
     company: "Comorins Technologies",
@@ -58,11 +58,11 @@ const EXPERIENCES = [
     location: "Nagercoil, Tamil Nadu, India",
     designation: "Frontend Developer",
     skills:
-      "MEAN Stack · Angular · HTML · Cascading Style Sheets (CSS) · JavaScript · Adobe XD · Git ",
+      "WordPress · React Js · HTML · Cascading Style Sheets (CSS) · JavaScript · Adobe XD to UI conversion · Git ",
     responsibility:
-      "Build enterprise application for Healthcare Platform. Supported the team to create prototypes, frontend development with API Integration and deployment in AWS Console.",
-    from: "Jun 2019",
-    to: "Jun 2019",
+      "Supported the team to create prototypes, UI Development,frontend development,WordPress development and Lead for PSD to UI development Team",
+    from: "Oct 2020",
+    to: "Mar 2023",
   },
   {
     company: "Veltech Digital Team",
@@ -70,11 +70,11 @@ const EXPERIENCES = [
     location: "Chennai, Tamil Nadu, India",
     designation: "Web Developer",
     skills:
-      "MEAN Stack · Angular · HTML · Cascading Style Sheets (CSS) · JavaScript · Photoshop",
+      "HTML · Cascading Style Sheets (CSS) · JavaScript · Photoshop . WordPress . PHP",
     responsibility:
-      "Create and Manage websites, web applications in MERN Stack. Worked in Blockchain based applications. Lead and manage the front-end team. Provided training to the new joiners in MEAN Stack. Some of the general responsibilities are, Worked closely with design and testing team. Focused in bug free production code and eye catching UI visualisation. Managed individual project priorities, deadlines and deliverables.",
-    from: "Jan 2018",
-    to: "Mar 2019",
+      "Build enterprise application for Education Platform. Create and Manage CMS websites using WordPress, web applications in FullStack. Manage the front-end team. Some of the general responsibilities are, Worked closely with design and testing team. Focused in bug free production code and eye catching UI visualisation. Managed individual project priorities, deadlines and deliverables.",
+    from: "Mar 2017",
+    to: "Jun 2020",
   },
 ];
 
