@@ -76,7 +76,7 @@ function Banner() {
                     typography: { xl: "h5", lg: "h5", sm: "h6", xs: "body2" },
                   }}
                 >
-                  Frontend Developer / WordPress Developer
+                  Fullstack Developer
                 </Typography>
                 <Typography
                   variant="body2"
